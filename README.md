@@ -1,6 +1,9 @@
 # **Portfolio Assignment**
 *~ by Barbara Rodriguez ~*
 
+Website:
+https://barbararodriguez.netlify.com
+
 
 ## **The Design Process**
 ***
