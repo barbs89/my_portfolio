@@ -34,7 +34,7 @@ The desired outcome needs to reflect the following attributes:
 
 My inspiration came from various interests which include illustrators such as [Kerby Rosanes](http://kerbyrosanes.com), movies *(Star Wars, The Fifth Element)*, Spirit Animals *(Bald Eagle, Wolves, Tigers)*, Quotes, and One-page mobile designs.
 
->![Inspiration](./inspiration.jpg)
+>![Inspiration](./screenshots/inspiration.jpg)
 
 **Colour Schemes** <----------
 
