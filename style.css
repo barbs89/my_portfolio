@@ -243,11 +243,13 @@
     border-style: dotted;
   }
     
-  blockquote h3 {
+  blockquote h2 {
     margin-top: 70px;
     font: size 40pt;
     color: white;
     text-align: center;
+    font-family: oswald;
+    font-size: 24pt;
         
   }
 
@@ -260,7 +262,7 @@
     position: relative; 
   }
 
-  blockquote h3:before {
+  blockquote h2:before {
     content: open-quote;
     position: absolute; 
     top: 0;
@@ -269,7 +271,7 @@
     color: #D6564E;
   }
 
-  blockquote h3:after{
+  blockquote h2:after{
     content: close-quote;
     position: absolute; 
     bottom: 0; 
