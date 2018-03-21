@@ -44,11 +44,11 @@ The colour schemes chosen were inspired by the movie posters from *'Star Wars'* 
 
 The colour schemes came from [Coolers](https://coolors.co).
 
->![Colour Schemes](./colourschemes.jpg)
+>![Colour Schemes](./screenshots/colourschemes.jpg)
 
 My chosen colour scheme were:
 
->![Lock it in](./lockitin.jpg)
+>![Lock it in](./screenshots/lockitin.jpg)
 
 
 
@@ -58,14 +58,14 @@ The fonts chosen for my design needed to be sans-serif, clean, more than 2 fonts
 
 I downloaded my font kits from [Font Squireel](https://www.fontsquirrel.com).
 
->![Fonts](./fonts.jpg)
+>![Fonts](./screenshots/fonts.jpg)
 
 
 **Logo** <----------
 
 When designing the logo, I wanted to keep it simple and black and white.
 
->![Logo](./logos.jpg)
+>![Logo](./screenshots/logos.jpg)
 
 
 **Wireframes** <----------
@@ -76,8 +76,8 @@ I took the time to carefully layout my design - one page at a time.
 
 I wanted to keep a clean, one-page mobile website design to emphasize more on the subtle details such as type, use of negative space and create a dynamic feel.
 
->![Onetwopages](./onetwopage.jpg)![Threefourpage](./threefourpage.jpg)
->![fivesixpage](./fivesixpage.jpg)![sevenpage](./sevenpage.jpg)
+>![Onetwopages](./screenshots/onetwopage.jpg)![Threefourpage](./screenshots/threefourpage.jpg)
+>![fivesixpage](./screenshots/fivesixpage.jpg)![sevenpage](./screenshots/sevenpage.jpg)
 ***
 ## **The Development Process**
 ***
